@@ -1,0 +1,10 @@
+.vscode
+client_secret_975731569329-tqgb9equ7v1e87kl4m45q4slnms5i3e1.apps.googleusercontent.com.json
+open_market_operation/__pycache__
+open_market_operation/chrome-linux64
+open_market_operation/chromedriver-linux64
+open_market_operation/.env
+open_market_operation/*.ipynb
+open_market_operation/omo_data.csv
+n8n_data
+n8n-data
